@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.register_div{
+	margin-top: 30px;
+	width:500px;
+	height:300px;
+	position: absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-250px,-150px);
+}
+ a{
+ 	color:black;
+ 	text-decoration: none;
+ }
